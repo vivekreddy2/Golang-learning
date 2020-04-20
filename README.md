@@ -1,2 +1,2 @@
 # Golang-learning
-Code snippets and example of Golang and its concepts
+Code snippets and examples of Golang and its concepts
